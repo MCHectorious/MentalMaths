@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602073960807",
+    "firebase_url": "https://mentalmaths-a465b.firebaseio.com",
+    "project_id": "mentalmaths-a465b",
+    "storage_bucket": "mentalmaths-a465b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602073960807:android:455f444756f38142",
+        "android_client_info": {
+          "package_name": "com.hector.mentalmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602073960807-jr6srhqocf25smseniplph22ph6nq776.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hector.mentalmaths",
+            "certificate_hash": "9BB83D0522823F14B37DCC44EAA9DED8B9244954"
+          }
+        },
+        {
+          "client_id": "602073960807-fh6571ganoniv0c4e860kllvpnv8l1dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSn0IB5ukC3DBvr7XMBTJ_wGPOJmfx2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602073960807-fh6571ganoniv0c4e860kllvpnv8l1dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
